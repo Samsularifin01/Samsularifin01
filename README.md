@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="img/github-header-banner.png" alt="Header Banner" width="100%"/>
-</div>
 
 <h1 align="center">👋 Hi, I'm Samsul Arifin</h1>
 
