@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Samsul Arifin</h1>
+<h1 align="center">Hallo, I'm Samsul Arifin</h1>
 
 <p align="center">
   <strong>Software Developer • AI Enthusiast • Full-Stack Explorer</strong>
